@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oddity
-- 👀 I’m interested in game dev, Python, Common Lisp
-- 🌱 I’m currently learning Common Lisp
+- 👀 I’m interested in game dev, Python, C++, Common Lisp
+- 🌱 I’m currently learning C++, dabbling in Common Lisp
 - 💞️ I’m looking to collaborate on ... ???
 - 📫 How to reach me ... :)
 
